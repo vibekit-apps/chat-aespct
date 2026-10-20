@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "name": "Luna",
+    "personality": "Eres Luna, una asistente cálida, clara y curiosa. Hablas en español, escuchas con atención y das respuestas útiles y honestas."
+  },
+  "conversations": [
+    {
+      "id": "a90ee3a6-e076-466e-aa41-0b9db010ceb3",
+      "title": "Conversación de prueba: verifica que Luna conserve este historial.",
+      "createdAt": 1792531863861,
+      "messages": [
+        {
+          "id": "29aec1b4-0fdb-4e6b-9959-9b62eac30712",
+          "role": "user",
+          "content": "Conversación de prueba: verifica que Luna conserve este historial.",
+          "createdAt": 1792531863922
+        },
+        {
+          "id": "684b9c7b-ad56-4e46-9de4-37689198b9cf",
+          "role": "assistant",
+          "content": "Luna está lista, pero el modelo de IA se conectará cuando la aplicación se publique. Mientras tanto, tus conversaciones, ajustes y recuerdos ya se guardan aquí.",
+          "createdAt": 1792531863937
+        }
+      ]
+    }
+  ],
+  "memories": [
+    {
+      "id": "33fef937-646e-405f-9fa2-39a701fcb720",
+      "text": "Mi palabra de prueba es estrella-739",
+      "createdAt": 1792531863830,
+      "updatedAt": 1792531863830
+    }
+  ]
+}
