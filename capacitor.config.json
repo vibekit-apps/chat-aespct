@@ -11,24 +11,25 @@
       "showSpinner": false,
       "androidSpinnerStyle": "large",
       "iosSpinnerStyle": "small",
+      "spinnerStyle": "small",
       "spinnerColor": "#aa91ff"
     }
   },
   "web": {
-    "port": process.env.PORT || 3000
+    "port": 3000
   },
   "android": {
     "allowMixedContent": false,
     "captureInput": true,
     "buildOptions": {
-      "keystorePath": undefined,
-      "keystorePassword": undefined,
-      "keyAlias": undefined,
-      "keyPassword": undefined,
+      "keystorePath": null,
+      "keystorePassword": null,
+      "keyAlias": null,
+      "keyPassword": null,
       "releaseType": "APK",
-      "proguardFile": undefined,
-      "signingProperties": undefined,
-      "signingPropertiesDebug": undefined
+      "proguardFile": null,
+      "signingProperties": null,
+      "signingPropertiesDebug": null
     }
   },
   "ios": {
